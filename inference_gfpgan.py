@@ -83,7 +83,7 @@ def main():
         arch = 'original'
         channel_multiplier = 1
         model_name = 'GFPGANv1'
-        url = 'https://github.com/TencentARC/GFPGAN/releases/download/v0.1.0/GFPGANv1.pth'
+        url = 'https://nmkd.de/shared/ESRGAN/Models/Faces/8x_NMKD-Faces_160000_G.pth'
     elif args.version == '1.2':
         arch = 'clean'
         channel_multiplier = 2
